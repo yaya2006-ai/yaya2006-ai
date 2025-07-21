@@ -1,4 +1,4 @@
-<h2 align="left">Hello World! , meu nome é Yasmin , tenho 19 anos sou apaixonada por tecnologia , atualmente estou fazendo engenharia de software . e estou em busca de um estagio na área</h2>
+<h2 align="left">Hello World! , meu nome é Yasmin , tenho 19 anos sou apaixonada por tecnologia , atualmente estou fazendo engenharia de software . e estou em busca de um estagio  na área</h2>
 
 ###
 
