@@ -1,43 +1,63 @@
-<h2 align="left">Hello World, I'm Yasmin, be very welcome</h2>
+<h1 align="center">Olá! Eu sou a Yasmin 👋</h1>
 
-###
+<p align="center">
+Estudante e desenvolvedora em início de carreira, com interesse em <b>Análise de Dados</b> e <b>Desenvolvimento Front-end</b>.<br>
+Tenho perfil analítico, organizado e foco em aprendizado contínuo, desenvolvendo projetos práticos que unem <b>tecnologia, dados e experiência do usuário</b>.
+</p>
 
-<br clear="both">
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaya2006-ai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaya2006-ai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 📊 Áreas de Interesse
+- Análise e visualização de dados  
+- Dashboards interativos  
+- Desenvolvimento de interfaces web  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-</div>
+## 🛠️ Tecnologias
 
-###
+### 📈 Dados
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
 
-<div align="left">
-  <a href="https://www.instagram.com/yas_feltrin?igsh=MTRjenc1b3lhejlscQ%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+### 💻 Front-end
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+### 🔧 Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 O que você encontra aqui
+- 📊 Projetos de **Análise de Dados** com dashboards interativos  
+- 💻 Projetos **Front-end** focados em layout, organização e usabilidade  
+- 📚 Repositórios desenvolvidos para estudo, prática e evolução técnica  
+
+---
+
+## 📫 Conecte-se comigo
+<p>
+  <a href="https://www.linkedin.com/in/yasmin-ribeiro-feltrin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/yasmin-ribeiro-feltrin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="mailto:yasminribeirofeltrin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
+</p>
 
-###
+---
+
+📌 *Em busca de oportunidades para aprender, crescer e contribuir na área de tecnologia.*
